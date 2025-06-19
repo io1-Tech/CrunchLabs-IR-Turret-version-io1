@@ -25,7 +25,7 @@ This robot can be controlled using:
 
 You can find a complete, organized list of all electronic, mechanical, and auxiliary components used in this project in the spreadsheet below:
 
-📄 [CrunchLabs IR Turret io1 ver. Components Documentation.xlsx](components/CrunchLabs IR Turret io1 ver. Components Documentation.xlsx)
+📄 [CrunchLabs IR Turret io1 ver. Components Documentation](CrunchLabs_IR_Turret_io1_ver._Components_Documentation.xlsx)
 
 This table includes:
 - Quantity and part numbers  
