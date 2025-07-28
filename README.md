@@ -39,13 +39,12 @@ Also i made a schematic with all the conections
 
 ## 🛠️ Tools and Platforms Used
 
-Here’s a list of the main tools and platforms I used throughout the WALL·E project:
+Here’s a list of the main tools and platforms I used throughout the project:
 
 - **Fusion 360** – Designed 3D parts of the robot and exported STL files for 3D printing.
 - **Fritzing** – Simulated circuits and verified wiring before building the physical prototype.
-- **EasyEDA** – Created professional circuit schematics and organized the wiring logic.
+- **EasyEDA** – Created circuit schematics and organized the wiring logic.
 - **Arduino IDE** – Developed and uploaded firmware to the ESP32 microcontroller.
-- **GitHub** – Used for version control, documentation, and collaboration.
 - **OrcaSlicer** – Used slicing all my 3d printabled parts.
 
 
